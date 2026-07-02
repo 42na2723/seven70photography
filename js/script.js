@@ -1,1 +1,5 @@
-const navToggle=document.querySelector('.nav-toggle');const navMenu=document.querySelector('.nav-menu');if(navToggle&&navMenu){navToggle.addEventListener('click',()=>navMenu.classList.toggle('open'))}const y=document.getElementById('year');if(y)y.textContent=new Date().getFullYear();
+const toggle = document.querySelector('.menu-toggle');
+const nav = document.querySelector('.main-nav');
+if (toggle && nav) {
+  toggle.addEventListener('click', () => nav.classList.toggle('open'));
+}
