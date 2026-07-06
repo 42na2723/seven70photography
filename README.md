@@ -1,2 +1,3 @@
-# Seven70 Photography V5
-Clean final rebuild. Replace images/logo/logo-seven70.png with your final logo if needed, and replace hero/category images with your own photos while keeping filenames or updating HTML.
+# Seven70 Photography v1.0
+
+Upload the contents of this folder to your GitHub Pages repository root.
